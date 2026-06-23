@@ -19,7 +19,7 @@
 80000141-29 = "[ns] \"Hmm...?\""
 80000141-30 = "Wh-What's wrong? It's just some waxy store-bought chocolates. Just be grateful and hork them down!"
 80000141-31 = "[ns] \"Hmm...\""
-80000141-33 = "[ns3] \"(The wrapping...is slightly off from the store brands'...)\"\n[ns4] (The chocolates...are a bit inconsistent in size...)\n[ns5] (The cacao aroma...is unusually rich...)"
+80000141-33 = "[ns3] \"(The wrapping...is slightly off from the store brands'...)\"\n[ns4] \"(The chocolates...are a bit inconsistent in size...)\"\n[ns5] \"(The cacao aroma...is unusually rich...)\""
 80000141-39 = "I ate...the chocolate!"
 80000141-43 = "A-Ahem... H-How is it?"
 80000141-44 = "[s] \"Thank you, Kei-Kei.\""
