@@ -1,12 +1,4 @@
 [translation]
-20057-CVGroup_UITitle_Idle1-1 = "ブルー、アーカイブ。うふふっ。"
-20057-CVGroup_CharacterGet_Idle1-1 = "ミレニアムサイエンススクール、コールサインゼロスリー室笠アカネ。\n生徒としてご挨拶申し上げます。ふふっ、もともと生徒なのですけどね？"
-20057-CVGroup_Cafe_Idle1-1 = "ひとまずケーキを用意したいところですね。"
-20057-CVGroup_Cafe_Idle2-1 = "ここはなんだか落ち着きますね。"
-20057-CVGroup_Cafe_Idle3-1 = "あの家具、部室にも置きたいですね。"
-20057-CVGroup_Cafe_Idle4-1 = "（掃除が行き届いてはいますが……詰めが甘いですね）"
-20057-CVGroup_Cafe_Idle5-1 = "（この広さ……必要な爆薬の量は……）"
-20057-CVGroup_WeaponGet_Idle1-1 = "キヴォトスにおいて、銃は必需品です。\nそれはメイドだろうと、生徒だろうと変わりません。\n数多ある銃の中……\n先生から頂戴したこの「掃除道具」と共に、これからも精進いたしますね。"
 20057-CVGroup_UIEventLobby_Enter1-1 = "お待ちしておりました、先生。"
 20057-CVGroup_UIEventLobby_Enter1-2 = "ミレニアムの案内はお任せください。"
 20057-CVGroup_UIEventLobby_Enter2-1 = "行きたい場所があれば、遠慮なく仰ってくださいね。"
