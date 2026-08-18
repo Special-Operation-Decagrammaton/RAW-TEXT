@@ -1,6 +1,7 @@
 [translation]
 80000035-1 = "Yes, I Made Them"
 80000035-3 = "Hmm. This document should be good to go."
+80000035-4 = ""
 80000035-8 = "[ns] \"Ako, where do finished documents go?\""
 80000035-9 = "That basket over there, please."
 80000035-10 = "Heehee. Thank you for helping me during busy season."
@@ -30,6 +31,8 @@
 80000035-50 = "Now that you know I made them, you better enjoy them all the more."
 80000035-51 = "I worked hard on them, I'll have you know."
 80000035-52 = "[s] \"How about we enjoy them together? I'll make some coffee.\""
+80000035-53 = ""
+80000035-55 = ""
 80000035-56 = "*sigh* I guess I could use a break."
 80000035-57 = "I'll have an espresso."
 80000035-59 = "We enjoyed our coffee and chocolate as Ako continued to complain about work."

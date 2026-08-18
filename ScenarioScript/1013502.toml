@@ -1,5 +1,6 @@
 [translation]
 1013502-1 = "Stress Relief"
+1013502-2 = ""
 1013502-3 = "..."
 1013502-4 = "[s] \"...\""
 1013502-5 = "What? Why are you staring at me like that?"
@@ -26,6 +27,7 @@
 1013502-26 = "Aw?"
 1013502-27 = "[s] \"So cute.\""
 1013502-28 = "GAAAHH!!"
+1013502-29 = ""
 1013502-30 = "I like that I'm able to work more in the field now."
 1013502-31 = "...But this body feels oddly creaky here and there..."
 1013502-32 = "Huh? Do I need some \"WE-40 for the joints\"? What are you talking about?"
@@ -62,4 +64,6 @@
 1013502-63 = "...?!"
 1013502-64 = "You're doing this on purpose, aren't you?"
 1013502-65 = "[s1] \"I! Only have!\"\n[s2] \"The purest of intentions! When thinking of Kei-Kei!\""
+1013502-66 = ""
+1013502-67 = ""
 1013502-70 = "I hate you, Sensei!!"

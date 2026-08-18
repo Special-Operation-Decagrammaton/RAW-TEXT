@@ -328,7 +328,7 @@
 3507390375 = "Materials exceed required amount."
 3490397281 = "Please recheck the entered characters."
 1747331783 = "At least one product must be purchased to renew."
-3861829530 = "No character has a Recollection Lobby."
+3861829530 = "No characters found."
 2744957643 = "A new update is available! Reconnecting..."
 697699156 = "You cannot mobilize with a banned student."
 2785402308 = "Cannot send friend request because you friend list is full."
@@ -420,3 +420,4 @@
 3447961601 = "No Work Log reward available."
 3146430479 = "Abnormal game record detected. Restricting game access for {0} days. Restriction duration: {1} - {2}"
 3476497906 = "You have not logged into Google Play Games yet."
+1989089883 = "No users matching your search criteria found. Please try again."

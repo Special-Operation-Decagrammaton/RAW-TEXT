@@ -1,5 +1,6 @@
 [translation]
 80000090-1 = "The Security Committee Chair's Medal"
+80000090-2 = ""
 80000090-3 = "Ah, Sensei. I'm sorry for the rush request."
 80000090-4 = "There's an issue which I simply cannot handle on my own."
 80000090-5 = "I need to borrow your wisdom, Sensei."
@@ -13,6 +14,8 @@
 80000090-14 = "[ns] \"But you don't seem happy about it...\""
 80000090-15 = "Um... Well, President Cherino honored my contribution to the production of Cherenka Chocolate with a specially-manufactured medal."
 80000090-16 = "Here it is."
+80000090-17 = ""
+80000090-19 = ""
 80000090-21 = "[ns] \"Is this...chocolate?\""
 80000090-22 = "This Special Chocolate Medal of Merit is made of the ingredients that go in the Cherenka Chocolate, primarily milk chocolate. That makes it quite different from other medals made with, well, metal."
 80000090-23 = "I understand the intent of creating a chocolate medal to commemorate a contribution to chocolate production, but..."
@@ -30,6 +33,7 @@
 80000090-35 = "I wasn't awarded any other certificates or medals for managing the factory..."
 80000090-36 = "[s] \"Other students will remember how hard you worked, Marina.\""
 80000090-38 = "[ns] \"A medal only has meaning because of the people that know what it commemorates.\""
+80000090-39 = ""
 80000090-40 = "I...see. Hm... In that case, Sensei, will you eat this medal for me?"
 80000090-41 = "[s5] \"Huh? Do you really want to give me this?\"\n[s6] \"Isn't this really important to you?\""
 80000090-42 = "Of course it's quite dear to me, but if it wasn't for your advice, I think I would've let it spoil and thrown it out..."
