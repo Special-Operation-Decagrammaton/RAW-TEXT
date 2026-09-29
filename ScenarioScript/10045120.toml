@@ -1,9 +1,9 @@
 [translation]
 10045120-1 = "Epilogue;The Story's End"
 10045120-2 = ""
-10045120-5 = "#n #nWhen the blossoms fall"
-10045120-7 = "#n #n #n #nSummer's heat rises and ebbs"
-10045120-9 = "#n #n #n #n #n #nThen comes autumn wind"
+10045120-5 = "#st;[-284,566];smooth;140;#n #nWhen the blossoms fall"
+10045120-7 = "#st;[-640,455];smooth;140;#n #n #n #nSummer's heat rises and ebbs"
+10045120-9 = "#st;[-956,344];smooth;140;#n #n #n #n #n #nThen comes autumn wind"
 10045120-12 = "[log=치세 수영복]When the blossoms fall[/log]"
 10045120-13 = "[log=치세 수영복]Summer's heat rises and ebbs[/log]"
 10045120-14 = "[log=치세 수영복]Then comes autumn wind[/log]"
